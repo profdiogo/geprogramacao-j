@@ -1,8 +1,21 @@
-p{
+Body {
+    background: #BFC3FF;
+}
+
+p {
     text-align: justify;
+    font-size: 30px;
 }
 h1 {
     text-align: center;
-    color: blue;
+    color: #393E80;
+    background: #606280;
     font-size: 45px;
+}
+b {
+    color: red;
+}
+i {
+    font-size: 40px;
+    background: #5B62CC;
 }
