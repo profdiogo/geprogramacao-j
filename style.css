@@ -59,7 +59,7 @@ h2 {
 }
 
 li::marker {
-    content: "✔";
+    content: "\1F4D5";
 }
 
 ul{
