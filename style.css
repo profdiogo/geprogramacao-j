@@ -1,21 +1,85 @@
-Body {
-    background: #BFC3FF;
+body {
+    background:#A9A9A9;
+    font-size: 30px;
+    color: #191970;
+    
 }
+
+h1 {
+    background: #928bcb;
+    color: rgb(10, 9, 9);
+    border:15px groove cadetblue;
+        margin-top: 0px;  
+    }
 
 p {
     text-align: justify;
-    font-size: 30px;
+    
 }
-h1 {
-    text-align: center;
-    color: #393E80;
-    background: #606280;
-    font-size: 45px;
-}
+
 b {
     color: red;
 }
-i {
-    font-size: 40px;
-    background: #5B62CC;
+
+#imagem-principal {
+    width: 10%;
+    margin-right: 163px;
+    margin-bottom: 0px;
+    vertical-align: top;
+
 }
+
+#imagem-secundaria {
+    width: 100%;
+    height: 320px;
+    
+} 
+
+i {
+    font-size: 30px;
+    color: #01260a;
+}
+
+#formacao {
+   border: 3px dotted black ;
+   padding: 10px;
+      
+}
+
+h2 {
+    text-align: center;
+    color: white
+    
+}
+
+.lista {
+    color: white;
+    background-color: #060606;
+        
+}
+
+li::marker {
+    content: "✔";
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 28%;
+    margin-right: 37%;
+
+    }
+
+.teste {
+    font-size: 21px;
+
+
+}
+
+#escola {
+    color: #191970;
+}
+.imagem3 {
+    width: 30%;
+}
+
